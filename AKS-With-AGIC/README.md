@@ -17,3 +17,7 @@
 - Once add-on is enabled, you will see an application gateway created with a public IP.
 - You can use this public IP to point to your domain.
 - expose your services with the help of kubernetes ingress.
+
+### Broad Architecture and Various Components
+
+![](./diagram/aks-with-agic.excalidraw.png)
