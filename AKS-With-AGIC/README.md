@@ -20,4 +20,4 @@
 
 ### Broad Architecture and Various Components
 
-![](AKS-With-AGIC/diagram/aks-with-agic.excalidraw.png)
+![](./diagram/aks-with-agic.excalidraw.png)
